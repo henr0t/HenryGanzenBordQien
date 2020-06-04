@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4beeb3d6-1d7f-4f4b-9ca4-ba05f4faf8f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="138" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HenryGanzenBordQien" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cRI4S07eDQcfHH0Nt9a1wXiYRf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ganzenbord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ganzenbord" />
+      <module name="HenryGanzenBordQien.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ganzenbord" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4beeb3d6-1d7f-4f4b-9ca4-ba05f4faf8f0" name="Default Changelist" comment="" />
+      <created>1590484787217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590484787217</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="260" y="278" key="FileChooserDialogImpl" timestamp="1591175103854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="260" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591175103854" />
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom" timestamp="1591131279364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591131279364" />
+    <state width="1877" height="287" key="GridCell.Tab.0.center" timestamp="1591131279363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591131279363" />
+    <state width="1877" height="287" key="GridCell.Tab.0.left" timestamp="1591131279363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591131279363" />
+    <state width="1877" height="287" key="GridCell.Tab.0.right" timestamp="1591131279363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591131279363" />
+    <state width="1877" height="225" key="GridCell.Tab.1.bottom" timestamp="1590523981810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590523981810" />
+    <state width="1877" height="225" key="GridCell.Tab.1.center" timestamp="1590523981810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590523981810" />
+    <state width="1877" height="225" key="GridCell.Tab.1.left" timestamp="1590523981810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590523981810" />
+    <state width="1877" height="225" key="GridCell.Tab.1.right" timestamp="1590523981810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="225" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590523981810" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1591175098895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591175098895" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1590488526361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590488526361" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590590272720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590590272720" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HenryGanzenBordQien$ganzenbord.ic" NAME="ganzenbord Coverage Results" MODIFIED="1590517364551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
